@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo López</h1>
-- 🌱 I’m currently learning **C#, GDScript and Astro**
+- 🌱 I’m currently learning C#, GDScript and Astro
 
 - 📫 How to reach me **rlopezhuaman321@gmail.com**
 
