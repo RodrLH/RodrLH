@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo López</h1>
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Android
 
 - 📫 How to reach me **rlopezhuaman321@gmail.com**
 
