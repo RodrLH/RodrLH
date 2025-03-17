@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo López</h1>
 - 🌱 I’m currently learning Angular and Android
 
-- 📫 How to reach me **rlopezhuaman321@gmail.com**
+- 📫 How to reach me **rdri.dev03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
